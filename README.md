@@ -34,7 +34,6 @@ To design and simulate the CMOS inverter and observe the DC and transient respon
 4.	This is a table of components for building the inverter schematic.
 5.	After entering components, click cancel in the add instance form or press ESC with your cursor in the schematic window.
 
- ![image](https://github.com/Lokeshmb005/VLSI-LAB-EXP-6/assets/159941167/ff2e4de9-cd56-4227-8ce4-c9887921b4f2)
 
 **ADDING PINS TO SCHEMATIC:**
 
@@ -64,7 +63,7 @@ Creating the inverter test cell view:
 7.	Click create wire name or press c to name the i/p (vsin) and output wires as in below schematic.
 8.	Click on the check and save icon to save the design.
  
-![image](https://github.com/Lokeshmb005/VLSI-LAB-EXP-6/assets/159941167/4bf6bbe3-c876-45b8-8d0c-681a2591aa43)
+
 
 **ANALOG SIMULATION WITH SPECTRA:**
 
@@ -104,13 +103,15 @@ f.	Select the enable button and click apply and then click ok.
 
 **CMOS INVERTER SCHEMATIC:**
 
-![image](https://github.com/Lokeshmb005/VLSI-LAB-EXP-6/assets/159941167/0cfb0830-cee0-40e2-ba57-b04aed38a170)
+ ![image](https://github.com/Lokeshmb005/VLSI-LAB-EXP-6/assets/159941167/ff2e4de9-cd56-4227-8ce4-c9887921b4f2)
+
 
 **CMOS INVERTER TEST CELL VIEW:**
 
-![image](https://github.com/Lokeshmb005/VLSI-LAB-EXP-6/assets/159941167/fa4259ee-1da9-4989-9aef-af6634dbfd3e)
+![image](https://github.com/Lokeshmb005/VLSI-LAB-EXP-6/assets/159941167/4bf6bbe3-c876-45b8-8d0c-681a2591aa43)
 
 **CMOS INVERTER SIMULATION WITH SPECTRA:**
+
 **TRANSIENT RESPONSE:**
 
 ![Screenshot 2024-05-11 154811](https://github.com/karanpro06/VLSI-LAB-EXP-6/assets/119782103/7c69e7bb-df7d-4210-8332-c11f041707fe)
