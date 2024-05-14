@@ -113,12 +113,11 @@ f.	Select the enable button and click apply and then click ok.
 **CMOS INVERTER SIMULATION WITH SPECTRA:**
 
 **TRANSIENT RESPONSE:**
-
-![Screenshot 2024-05-11 154811](https://github.com/karanpro06/VLSI-LAB-EXP-6/assets/119782103/7c69e7bb-df7d-4210-8332-c11f041707fe)
+![Screenshot 2024-05-11 154811](https://github.com/karanpro06/VLSI-LAB-EXP-6/assets/119782103/f486203b-3daf-41fa-9823-00024ab08ee3)
 
 **DC RESPONSE:**
 
-![Screenshot 2024-05-11 155354](https://github.com/karanpro06/VLSI-LAB-EXP-6/assets/119782103/d53dde0c-feb7-4c5e-9158-682990af467c)
+![Screenshot 2024-05-11 155354](https://github.com/karanpro06/VLSI-LAB-EXP-6/assets/119782103/5737c841-c3ee-4046-9534-42cdb820e504)
 
 
 **CMOS NAND GATE:**
