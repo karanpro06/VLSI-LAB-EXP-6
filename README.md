@@ -105,6 +105,21 @@ f.	Select the enable button and click apply and then click ok.
 
  ![image](https://github.com/Lokeshmb005/VLSI-LAB-EXP-6/assets/159941167/ff2e4de9-cd56-4227-8ce4-c9887921b4f2)
 
+**SPECIFICATIONS**
+
+Vpulse 	V1 = 0	Vdc	= 1
+V2 = 1
+td = 0,tr=tf=1 n, ton= 100n ,T=200n
+
+**SIMULATION SETTINGS:**
+
+Setup for transient analysis:
+1.	Stop time =400n
+
+Setup for D.C analysis
+1.	Component to be selected in schematic is	for d.c analysis
+2.	Start = -1 Stop = 1 resp.
+
 
 **CMOS INVERTER TEST CELL VIEW:**
 
