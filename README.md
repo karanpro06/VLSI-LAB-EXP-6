@@ -147,7 +147,8 @@ Setup for D.C analysis
 
 **NAND SIMULATION WITH SPECTRA:**
  
-![image](https://github.com/Lokeshmb005/VLSI-LAB-EXP-6/assets/159941167/9b180d74-92c7-42aa-8652-30e7fbe89260)
+![Screenshot 2024-05-14 120804](https://github.com/karanpro06/VLSI-LAB-EXP-6/assets/119782103/abd87c86-eff0-40c2-9507-0b0cebdc2ccb)
+
 
 **CMOS NOR GATE:**
 
@@ -161,7 +162,8 @@ Setup for D.C analysis
 
 **NOR SIMULATION WITH SPECTRA:**
 
-![image](https://github.com/Lokeshmb005/VLSI-LAB-EXP-6/assets/159941167/40828e25-0474-43c1-8e49-0d297ae6a11a)
+![Screenshot 2024-05-14 120822](https://github.com/karanpro06/VLSI-LAB-EXP-6/assets/119782103/e82801f2-45c1-439f-aff7-df6e62f25aa4)
+
 
 **RESULT:**
 
