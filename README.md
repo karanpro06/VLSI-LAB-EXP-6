@@ -100,9 +100,25 @@ f.	Select the enable button and click apply and then click ok.
 1.	Execute the simulation Netlist and run in the simulation window to start the simulation on the icon. This will create the netlist as well as run the simulation.
 2.	When the simulation finishes the transient and DC plots automatically will be popped up along with netlist.
  
+**CMOS INVERTER:**
+
+**CMOS INVERTER SCHEMATIC:**
+
 ![image](https://github.com/Lokeshmb005/VLSI-LAB-EXP-6/assets/159941167/0cfb0830-cee0-40e2-ba57-b04aed38a170)
 
+**CMOS INVERTER TEST CELL VIEW:**
+
 ![image](https://github.com/Lokeshmb005/VLSI-LAB-EXP-6/assets/159941167/fa4259ee-1da9-4989-9aef-af6634dbfd3e)
+
+**CMOS INVERTER SIMULATION WITH SPECTRA:**
+**TRANSIENT RESPONSE:**
+
+![Screenshot 2024-05-11 154811](https://github.com/karanpro06/VLSI-LAB-EXP-6/assets/119782103/7c69e7bb-df7d-4210-8332-c11f041707fe)
+
+**DC RESPONSE:**
+
+![Screenshot 2024-05-11 155354](https://github.com/karanpro06/VLSI-LAB-EXP-6/assets/119782103/d53dde0c-feb7-4c5e-9158-682990af467c)
+
 
 **CMOS NAND GATE:**
 
